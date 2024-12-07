@@ -1,0 +1,6 @@
+flask
+pymongo
+openai
+pdfminer.six
+python-dotenv
+numpy
